@@ -6,7 +6,8 @@ For the moment it can not be used alone: an openocd instance must be running pri
 
 ACKNOWLEDGEMENT
 --------------
-A big acknowledgment goes to the original author of the perl script, who remains unknown to me so far...
+A big acknowledgment goes to the original author of the perl script:
+http://www.triplespark.net/elec/pdev/arm/stm32.html
 
 TODOs
 ----

@@ -3,3 +3,4 @@ PROJECT(stm32_flash)
 CMAKE_MINIMUM_REQUIRED(VERSION 3.0)
 
 INSTALL( PROGRAMS src/stm32_flash.pl DESTINATION bin )
+INSTALL( FILES src/FindStm32_flash.cmake DESTINATION share/cmake )
